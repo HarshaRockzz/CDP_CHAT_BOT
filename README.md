@@ -12,9 +12,6 @@ A web-based chatbot designed to assist users with "how-to" questions about Custo
 - [Non-Functional Enhancements](#non-functional-enhancements)
 - [Potential Improvements](#potential-improvements)
 - [Contributing](#contributing)
-- [Credits](#credits)
-- [Changelog](#changelog)
-- [License](#license)
 
 ## Overview
 This project is a single-page web application built with vanilla HTML, CSS, and JavaScript. It simulates a support chatbot that answers "how-to" questions by fetching mock documentation data (simulating extraction from official CDP documentation URLs: 
