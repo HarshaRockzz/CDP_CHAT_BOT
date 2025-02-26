@@ -1,6 +1,6 @@
 # CDP Support Chatbot
 
-A web-based chatbot designed to assist users with "how-to" questions about Customer Data Platforms (CDPs): Segment, mParticle, Lytics, and Zeotap. Built as part of **Assignment 2: Building a Support Agent Chatbot for CDP "How-to" Questions**, this project provides a functional, user-friendly interface with robust question handling and bonus features.
+A web-based chatbot designed to assist users with "how-to" questions about Customer Data Platforms (CDPs): Segment, mParticle, Lytics, and Zeotap. this project provides a functional, user-friendly interface with robust question handling and bonus features.
 
 ## Table of Contents
 - [Overview](#overview)
